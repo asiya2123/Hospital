@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.heading{
+    background-image:url(https://cdn.codechef.com/download/Contest+images/ANTEST/landing+page.jpg);
+    background-size: cover;
+    color: white;
+    background-color: transparent;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+}
+h1{
+    background-color: transparent;
+    font-size: 80px;
+    font-family: Times;
+   text-align: center;
+   padding: 10px;
+     padding-bottom: 150px;
+   
+}
+h2{
+    text-align: right;
+   font: 60px cursive;
+   padding-bottom: 5px;
+   padding-top: 5px;
+   padding-right: 20px;
+   color: white;
+   background-color: transparent;
+}
+.para{
+    color: white;
+    background-color: transparent;
+text-align:right;
+padding-top: 30px;
+margin-left: 30%;
+background-color: transparent;
+padding-right: 20px;
+margin-bottom: 50px;
+}
+main{
+    background-color: #071A28;
+    align-items: center;
+   color: white;
+}
+h6{
+    text-align: center;
+    font-size:1.5rem;
+        padding-bottom: 30px;
+        padding-top: 100px;
+}
+table,th,td{
+    border: 1px solid orangered;
+    border-collapse: collapse;
+    color: white;
+    align-items: center;
+    padding: 20px;
+}
+th{
+    background-color: orangered;
+    padding: 10px;
+   
+}
+.tlines{
+    text-align: center;
+    margin: 9rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#tb1{
+    height: 200px;
+    width: 900px;
+    
+}
+#tb2{
+    height: 250px;
+    width: 900px;
+}
+#tb3{
+    height: 260px;
+    width: 900px;
+    margin-top:30px ;
+}
+.tables{
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+a{
+    color: white;
+    font:1.5rem times;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+footer{
+    
+    color: white;
+    background-color: transparent;
+   
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #4F2D18;
+}
