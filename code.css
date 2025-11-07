@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: rgba(12, 10, 10, 0.804);
+    color: white;
+    line-height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7rem;
+}
+.menu_list{
+    background-color: rgb(208, 208, 4);
+    color: rgba(0, 0, 0, 0.742);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    line-height: 1.5rem;
+}
+.a{
+    text-decoration: none;
+    margin: 0.4rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+}
+.welocme_banaer{
+    margin: 0.8rem;
+    background: whitesmoke;
+}
+h2{
+    font-size: medium;
+    margin: 5px;
+    padding: 5px;
+}
+ol{
+    margin-left: 3rem;
+    font-size: 0.8rem;
+}
+p{
+    margin-left: 1rem;
+    font-size: 0.8rem;
+}
+#hospt-img{
+    text-align: center;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+    padding: 3px;
+
+}
+th{
+    background-color: rgba(0, 0, 0, 0.719);
+    line-height: 2rem;
+    color: white;
+}
+table{
+    width: 100%;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.688);
+    line-height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 5px;
+    font-size: 0.8rem;
+}
+.heading{
+    text-align: left;
+    margin-left: 0;
+    font-size: 0.9rem;
+}
